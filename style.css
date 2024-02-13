@@ -141,7 +141,7 @@
 
 @media screen and (max-width: 360px) {
   .leftmob {
-    height: 100vh;
+    height: auto;
     width: 50vw;
     background-color: white;
     display: none;
